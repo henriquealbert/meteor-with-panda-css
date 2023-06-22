@@ -6,7 +6,7 @@ import { css } from "../../styled-system/css";
 export const App = () => (
   <div>
     <h1>Welcome to Meteor!</h1>
-    <div class={css({ fontSize: "2xl", fontWeight: "bold" })}>Hello 🐼!</div>
+    <div className={css({ fontSize: "2xl", fontWeight: "bold", color:'red' })}>Hello 🐼!</div>
     <Hello />
     <Info />
   </div>

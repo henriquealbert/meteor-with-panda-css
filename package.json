@@ -22,7 +22,6 @@
     "testModule": "tests/main.js"
   },
   "devDependencies": {
-    "@pandacss/dev": "^0.4.0",
-    "postcss": "^8.4.24"
+    "@pandacss/dev": "^0.4.0"
   }
 }
